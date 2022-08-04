@@ -2,7 +2,9 @@ Documentation Author and Project Creator: Umar Chaudhry
 
 GIF of Workout Generator Project Below!!
 
-work_generator
+![introgif](https://user-images.githubusercontent.com/88683496/182748299-87e76201-ee73-46d5-a8d4-62145ca4da72.gif)
+
+
 
 Programming/Markup Languages Used: HTML, CSS, Javascript
 
@@ -18,7 +20,7 @@ main.js: JavaScript file used to give the page the functionality of generating s
 
 favicon.ico: This file is needed for the image of a dumbbell to be displayed on the title tab of the webpage as it is a favicon (this favicon was retrieved by a website cited at the bottom of the index.html webpage).
 
-workout2.jpg: This file is an jpg image that is needed to display the man shown at the top of page for design purposes.
+backgroundIMG.webp: This file is used as a background image for design purposes
 
 Functionality of Workout Generator Project:
 
